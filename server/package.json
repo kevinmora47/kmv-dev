@@ -1,0 +1,8 @@
+{
+  "name": "backend",
+  "version": "0.0.1",
+  "description": "Backend personal website",
+  "main": "index.js",
+  "author": "Kevin Andrey Mora Vásquez",
+  "license": "MIT"
+}
